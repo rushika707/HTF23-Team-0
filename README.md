@@ -28,7 +28,7 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 </details>
 
 <details>
-<summary><h3>3. Add and Commit your Crossword Answers</h3></summary>
+<summary><h3>3. Clone your repository</h3></summary>
 <br>
 <ul>
  <li>Click on <b>Add File</b> and from the dropdown menu choose <b>Create New File</b></li>
