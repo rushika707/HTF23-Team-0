@@ -19,7 +19,7 @@ In this Readme, you will find a guide on how to fork this repository, add files 
  <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b></li>
  <img src="https://github.com/SaiKiranMatta/HTF23-Team-00/assets/98962380/1b62d759-7122-4c4e-bf07-5fd4f7658c38">
 
- <li>Enter the <b>Repository Name</b> as <b>Git Cryptex</b>.</li>
+ <li>Enter the <b>Repository Name</b> as <b>HTF23-Team-your team number</b>.</li>
  <li>Then click <b>Create Fork</b> leaving all other fields to their default value.</li>
  <img src="/images/git-cryptex.png">
  <li>After a few moments, you can view the repo.</li>
