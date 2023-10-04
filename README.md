@@ -17,7 +17,7 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 <br>
 <ul>
  <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b></li>
- ![Homepage](https://github.com/SaiKiranMatta/Indian-Tourism-Website/assets/98962380/93c967d5-30fe-40bb-a178-994727d53616)
+ <img src="https://github.com/SaiKiranMatta/HTF23-Team-00/assets/98962380/1b62d759-7122-4c4e-bf07-5fd4f7658c38">
 
  <li>Enter the <b>Repository Name</b> as <b>Git Cryptex</b>.</li>
  <li>Then click <b>Create Fork</b> leaving all other fields to their default value.</li>
