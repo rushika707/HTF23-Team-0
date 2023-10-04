@@ -31,22 +31,35 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 <summary><h3>3. Clone your repository</h3></summary>
 <br>
 <ul>
- <li>Click on <b>Add File</b> and from the dropdown menu choose <b>Create New File</b></li>
- <img src="/images/create.png">
- <li>You will now be redirected to a text editor.</li>
- <li>Enter the file name as your <b>Team Name</b> and type the Crossword answers in the space provided.</li>
- <img src="/images/ans.png"> 
- <li>Finally commit your changes, leaving all fields as default.</li>
-  <img src="/images/commit.png">
+ <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b>.</li>
+ <img src="/images/clone1.png">
+ <li>Now open terminal on your local machine.</li>
+ <li>Use the following command to clone your forked repository:</li>
+<code>git clone https://github.com/your-username/RepositoryName.git</code>
+<hr>
+ <img src="/images/clone2.png">
+
 </ul>
 </details>
 
 <details>
-<summary><h3>4. Create a Pull Request</h3></summary>
-<br>
+   <summary><h3>4. Add remote</h3></summary>
+   <ul>
+   <li>Navigate to the repository directory:</li>
+   <code>cd RepositoryName</code>
+   <li>Add the remote named <b>"origin"</b>:</li>
+   <code>git remote add origin https://github.com/your-username/RepositoryName.git</code>
+      <hr>
+   <img src="/images/remote.png">
+   </ul>
+</details>
+
+<details>
+<summary><h3>5. Adding files to the repository</h3></summary>
+<br/>
 <ul>
  <li>Finally, click on the <b>Contribute</b> button and choose <b>Open Pull Request</b>.</li>
- <img src="/images/pull.png">
+ <img src="/images/push.png">
  <li>Leaving all fields to their default values, click on <b>Create Pull Request</b>.</li>
  <img src="/images/final.png">
  <li>Wait for a few moments, then you are all done</li>
