@@ -1,4 +1,5 @@
 # HTF23-Team-00
+
 ## GitHub submission guide
 
 In this Readme, you will find a guide on how to fork this repository, add files to it, and make a pull request to contribute your changes.
@@ -17,11 +18,11 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 <br>
 <ul>
  <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b></li>
- <img src="https://github.com/SaiKiranMatta/HTF23-Team-00/assets/98962380/1b62d759-7122-4c4e-bf07-5fd4f7658c38">
+ <img src="/images/fork.png">
 
  <li>Enter the <b>Repository Name</b> as <b>HTF23-Team-your team number</b>.</li>
  <li>Then click <b>Create Fork</b> leaving all other fields to their default value.</li>
- <img src="/images/git-cryptex.png">
+ <img src="/images/create-fork.png">
  <li>After a few moments, you can view the repo.</li>
 </ul>
 </details>
@@ -40,7 +41,6 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 </ul>
 </details>
 
-
 <details>
 <summary><h3>4. Create a Pull Request</h3></summary>
 <br>
@@ -52,7 +52,6 @@ In this Readme, you will find a guide on how to fork this repository, add files 
  <li>Wait for a few moments, then you are all done</li>
 </ul>
 </details>
-
 
 <details>
 <summary><h3>Thanks for participating!</h3></summary>
