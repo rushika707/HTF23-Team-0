@@ -43,19 +43,7 @@ In this Readme, you will find a guide on how to fork this Repository, add files 
 </details>
 
 <details>
-   <summary><h3>4. Add remote</h3></summary>
-   <ul>
-   <li>Navigate to the Repository directory:</li>
-   <code> cd HTF23-Team-00 </code>
-   <li>Add the remote named <b>"origin"</b>:</li>
-   <code> git remote add origin https://github.com/your-username/HTF23-Team-00.git </code>
-      <hr>
-   <img src="/images/remote.png">
-   </ul>
-</details>
-
-<details>
-<summary><h3>5. Adding files to the Repository</h3></summary>
+<summary><h3>4. Adding files to the Repository</h3></summary>
 <br/>
 <ul>
  <li>While doing it for the first time, create a new branch for your changes.</li>
@@ -74,7 +62,7 @@ In this Readme, you will find a guide on how to fork this Repository, add files 
 </details>
 
 <details>
-<summary><h3>6. Create a Pull Request</h3></summary>
+<summary><h3>5. Create a Pull Request</h3></summary>
    <br>
 <ul>
  <li>Finally, click on the <b>Contribute</b> button and choose <b>Open Pull Request</b>.</li>
