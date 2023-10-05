@@ -58,7 +58,17 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 <summary><h3>5. Adding files to the repository</h3></summary>
 <br/>
 <ul>
- <li>Finally, click on the <b>Contribute</b> button and choose <b>Open Pull Request</b>.</li>
+ <li>While doing it for the first time, create a new branch for your changes.</li>
+   <code>   git checkout -b branch-name  </code>
+   <li>Add your files or make modifications to existing files.</li>
+   <li>Stage your changes:</li>
+   <code>  git add .  </code>
+   <li>Commit your changes:</li>
+   <code>  git commit -m "Descriptive commit message"  </code>
+   <li>Push changes to your fork </li>
+   <code> git push origin branch-name </code>
+   <hr>
+   
  <img src="/images/push.png">
  <li>Leaving all fields to their default values, click on <b>Create Pull Request</b>.</li>
  <img src="/images/final.png">
