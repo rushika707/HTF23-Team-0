@@ -2,7 +2,7 @@
 
 ## GitHub submission guide
 
-In this Readme, you will find a guide on how to fork this repository, add files to it, and make a pull request to contribute your changes.
+In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.
 
 <details open>
 <summary><h3>1. Login to your GitHub Account by heading over to <a href="https://github.com">github.com</a></h3></summary>
@@ -28,13 +28,13 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 </details>
 
 <details>
-<summary><h3>3. Clone your repository</h3></summary>
+<summary><h3>3. Clone your Repository</h3></summary>
 <br>
 <ul>
- <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b> in your forked repository. </li>
+ <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b> in your forked Repository. </li>
  <img src="/images/clone1.png">
  <li>Now open terminal on your local machine.</li>
- <li>Use the following command to clone your forked repository:</li>
+ <li>Use the following command to clone your forked Repository:</li>
 <code> git clone https://github.com/your-username/HTF23-Team-00.git </code>
 <hr>
  <img src="/images/clone2.png">
@@ -45,7 +45,7 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 <details>
    <summary><h3>4. Add remote</h3></summary>
    <ul>
-   <li>Navigate to the repository directory:</li>
+   <li>Navigate to the Repository directory:</li>
    <code> cd HTF23-Team-00 </code>
    <li>Add the remote named <b>"origin"</b>:</li>
    <code> git remote add origin https://github.com/your-username/HTF23-Team-00.git </code>
@@ -55,7 +55,7 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 </details>
 
 <details>
-<summary><h3>5. Adding files to the repository</h3></summary>
+<summary><h3>5. Adding files to the Repository</h3></summary>
 <br/>
 <ul>
  <li>While doing it for the first time, create a new branch for your changes.</li>
@@ -85,6 +85,6 @@ In this Readme, you will find a guide on how to fork this repository, add files 
 </ul>
 </details>
 
-<details>
-<summary><h3>Thanks for participating!</h3></summary>
-</details>
+
+## Thanks for participating!
+
